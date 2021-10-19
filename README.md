@@ -20,7 +20,7 @@ Wir wollen die Wetteranzeigen verständlicher und einfacher anzeigen. Damit man 
  
  
 ## SMART Ziele:
-S-
+S-Spezifisch die Aufgaben, die wir erledigt haben formulieren.
 M-Das Ziel ist es am Ende der Woche eine Wetter API, welche funktioniert.
 A-
 R-Motiviert arbeiten und das Ziel im Kopf behalten. Arbeiten muss auch spass machen.
