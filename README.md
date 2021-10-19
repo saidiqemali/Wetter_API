@@ -1,15 +1,15 @@
-Wetter API   Für Rum und Ehre
+## Wetter API   Für Rum und Ehre
 
-Teammitglieder:
+## Teammitglieder:
 - Leon Heid
 - Saidi Qemali
 - Marzio Cassese
 
-Unsere Idee:
+## Unsere Idee:
 
 Wir wollen das Wetter in verschiedenen Großstädten der Welt anzeigen. Dazu wollen wir auch noch die verschiedenen Klimaszenarien bis 2100 darstellen. Ein weiterer Punkt ist die gewünschte Uhrzeit an zu zeigen.
 
-Warum?
+## Warum?
 Wir wollen die Wetteranzeigen verständlicher und einfacher anzeigen. Damit man schneller das gewünschte Wetter am gewünschten Datum finden kann.
 
 
