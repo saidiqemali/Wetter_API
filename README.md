@@ -13,13 +13,13 @@ Warum?
 Wir wollen die Wetteranzeigen verständlicher und einfacher anzeigen. Damit man schneller das gewünschte Wetter am gewünschten Datum finden kann.
 
 
-Idee Umsetzung:
+## Idee Umsetzung:
  
  
-API-Link:
+## API-Link:
  
  
-SMART Ziele:
+## SMART Ziele:
 S-
 M-Das Ziel ist es am Ende der Woche eine Wetter API, welche funktioniert.
 A-
