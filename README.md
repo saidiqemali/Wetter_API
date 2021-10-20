@@ -21,14 +21,22 @@ Wir wollen die Wetteranzeigen verständlicher und einfacher anzeigen. Damit man 
  
 ## SMART Ziele:
 S-Spezifisch die verschiedenen Aufgaben, die wir erledigt haben formulieren.
+
 M-Das Ziel ist es am Ende der Woche eine Wetter API, welche funktioniert.
-A-
+
+A-Während der Projektphase sollten wir immer erreichbar sein und uns auf bestimmten Verantwortlichkeiten zuweisen lassen.
+
 R-Motiviert arbeiten und das Ziel im Kopf behalten. Arbeiten muss auch spass machen.
+
 T-Am Ende der Woche soll die Wetter API fertig und funktionsfähig sein. Unter der Woche wird nach Plan gearbeitet und die Termine werden versucht eingehalten zu werden
+
 ## Team Kodex:
 
-Wir halten uns alle an die abgemachten Regeln:
+Wir halten uns alle an die abgemachten Regeln.
+
 Wir bleiben immer ernsthaft bei der Arbeit.
+
 Wir arbeiten im Team am selben Projekt. Alle dürfen daran arbeiten, niemand wird ausgeschlossen. Und schauen, dass wir unsere geplanten Termine einhalten.
+
 Wir sprechen uns bei allen ab und respektieren die Regeln.
  
